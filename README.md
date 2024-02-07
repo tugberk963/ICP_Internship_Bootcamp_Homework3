@@ -1,6 +1,6 @@
 # ICP Internship Bootcamp Homework 3
 
-## HTTPS Calls using IC_CDK - Weather API  
+## HTTP Requests using IC_CDK - Weather API  
 
 ## https://www.weatherapi.com/
 
