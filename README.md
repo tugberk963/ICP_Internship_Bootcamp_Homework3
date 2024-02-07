@@ -5,7 +5,7 @@
 ## https://www.weatherapi.com/
 
 ## Short Description
-User can enter city name and reach information about `current weather condition`, `current tempature information` or `all weather data`.
+User can enter city name and reach information about `current weather condition`, `current temperature information` or `all weather data`.
 
 ##  Deployment 
 ```bash
