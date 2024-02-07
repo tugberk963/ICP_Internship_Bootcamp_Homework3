@@ -1,3 +1,6 @@
 service : {
-    "greet": (text) -> (text) query;
+    "get_current_condition": (city: text) -> (text);
+    "get_current_temp": (city: text) -> (text);
+    "get_weather_data": (city: text) -> (text);
+
 }
