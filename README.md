@@ -17,7 +17,7 @@ dfx deploy
 
 ## Testing Canisters
 When deployment is done you can reach Candid Interface and test your canisters from url provided in terminal which looks like that:
-`http://localhost:4943?canisterId={asset_canister_id}`.
+`http://localhost:4943/?canisterId={asset_canister_id}`.
 or
 `http://127.0.0.1:4943/?canisterId={asset_canister_id}`.
 ```
