@@ -1,6 +1,8 @@
 # ICP Internship Bootcamp Homework 3
 
-# HTTP Calls using IC_CDK - Weather API - https://www.weatherapi.com/
+## HTTP Calls using IC_CDK - Weather API  
+
+## https://www.weatherapi.com/
 
 ## Short Description
 User can enter city name and reach information about `current weather condition`, `current tempature information` or `all weather data`.
